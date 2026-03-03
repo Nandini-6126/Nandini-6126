@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,ff7eb9,ba9ffb&height=220&section=header&text=Hi,%20I'm%20[Your%20Name]%20✨&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,ff7eb9,ba9ffb&height=220&section=header&text=Hi,%20I'm%20[Nandini]%20✨&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 
   <h2>Full Stack Engineer 💻 | AI/ML Practitioner 🤖</h2>
 
@@ -8,10 +8,10 @@
     Currently building modern web applications and training models to make them smarter. ✨
   </p>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:nandinimuthireddy05@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff7eb9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nandini-muthireddy-49b93737a/">
     <img src="https://img.shields.io/badge/LinkedIn-ba9ffb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
