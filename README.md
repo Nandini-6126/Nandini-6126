@@ -25,15 +25,15 @@
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Nandini-6126E&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-6126&layout=compact&theme=rose_pine&hide_border=true" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=rose-pine&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini-6126&theme=rose-pine&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
