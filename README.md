@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,ff7eb9,ba9ffb&height=220&section=header&text=Hi,%20I'm%20[Nandini]%20✨&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,ff7eb9,ba9ffb&height=220&section=header&text=Hi,%20I'm%20Nandini%20✨&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 
   <h2>Full Stack Engineer 💻 | AI/ML Practitioner 🤖</h2>
 
